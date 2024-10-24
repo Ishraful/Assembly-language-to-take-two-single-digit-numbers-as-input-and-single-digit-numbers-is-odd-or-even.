@@ -1,0 +1,1 @@
+# Assembly-language-to-take-two-single-digit-numbers-as-input-and-single-digit-numbers-is-odd-or-even.
